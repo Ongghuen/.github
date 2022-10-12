@@ -13,25 +13,4 @@
     Kelompok yang sangat ongghuen, Ongghuen in Indonesia means beneran atau seriously in English.
   </p>
 </div>
-
-<br>
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Projectnya ada 2 yaitu Web dan Mobile. Web menggunakan PHP Native (or maybe Laravel in the future) lalu Flutter untuk Mobile-nya.
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Web 
-  - [ ] Idk
-- [ ] Mobile
-  - [ ] Idk
-
-Liat tiap issue di repo individu projeki untuk lebih lengkap.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
