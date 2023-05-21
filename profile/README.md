@@ -10,7 +10,7 @@
 <h3 align="center">Ongghuen</h3>
 
   <p align="center">
-    Kelompok yang sangat ongghuen, Ongghuen in Indonesia means beneran atau seriously in English.
+    Kelompok yang sangat ongghuen, Ongghuen in Indonesia means beneran atau really in English.
   </p>
 </div>
 <br />
